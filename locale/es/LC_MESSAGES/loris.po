@@ -268,7 +268,7 @@ msgid "{{pageCount}} rows displayed of {{totalCount}}."
 msgstr "{{pageCount}} filas mostradas de {{totalCount}}."
 
 msgid "Maximum rows per page:"
-msgstr "Máximo de filasa por página"
+msgstr "Máximo de filas por página"
 
 msgid "Download Data as CSV"
 msgstr "Descargar Datos como CSV"
